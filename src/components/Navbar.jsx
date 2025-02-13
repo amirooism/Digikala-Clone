@@ -155,4 +155,8 @@ const categories = [
     "خوردنی و آشامیدنی",
     "اسباب بازی، کودک و نوزاد",
   ];
-  
+  // Do other Categories From the API
+
+   function fall() {
+    
+  }
