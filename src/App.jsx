@@ -3,11 +3,8 @@ import Product from "./components/product";
 export default function App() {
   return (
     <>
-    <Header/>
-    <Product/>
-    
+      <Header />
+      <Product/>
     </>
-    
-    
-  )
+  );
 }
