@@ -38,7 +38,7 @@ export default function Product() {
             <ProductItem key={product.id} product={product} />
           ))
         ) : (
-          <p>Loading products...</p>
+          <p>Loading products......</p>
         )}
       </ul>
     </div>
