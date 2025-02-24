@@ -20,7 +20,6 @@ const Example = () => {
 
 const FlyoutLink = ({ children, href, FlyoutContent }) => {
   const [open, setOpen] = useState(false);
-
   const showFlyout = FlyoutContent && open;
 
   return (

@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import ProductItem from "./ProductItem";
 
-export default function Product() {
+export default function ProductFinale() {
   const [loadedProducts, setLoadedProducts] = useState([]); 
 
   useEffect(() => {

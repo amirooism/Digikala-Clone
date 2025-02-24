@@ -1,10 +1,10 @@
 import Header from "./components/Header";
-import Product from "./components/product";
+import ProductFinale from "./components/ProductFinale";
 export default function App() {
   return (
-    <>
+    <div>
       <Header />
-      <Product/>
-    </>
+      <ProductFinale />
+    </div>
   );
 }
